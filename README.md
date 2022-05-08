@@ -5,7 +5,7 @@ This is a solution to the [Fylo data storage component Challenge](https://www.fr
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-BJO3j4zUq]
+- Solution URL: [https://www.frontendmentor.io/solutions/fylo-data-storage-component-HJovY-BI5]
 - Live Site URL: [https://macdeesh.github.io/Fylo-data-storage-component/]
 
 ## Screenshot
